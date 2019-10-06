@@ -1,0 +1,4 @@
+#Sat Oct 05 14:38:34 BRT 2019
+base.0=C\:\\Users\\Lucas\\Documents\\GitHub\\Estudos_Flutter\\basic_calculator_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
